@@ -1,4 +1,4 @@
-# Lyrics-Generation
+# Next Word Prediction / Auto-Complete
 Text Generation using  old school Markov Chains
 
 
